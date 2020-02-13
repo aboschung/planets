@@ -6,4 +6,7 @@ tests tests tests
 exercise mars to venus
 refresh
 changes to test github
+<<<<<<< HEAD
 test github collaboratively
+MOUAHAHAHAHA XP was there
+>>>>>>> 69e35b8f7ecda3ac2761a3506ba8bf5bbed03927
